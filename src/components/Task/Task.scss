@@ -1,0 +1,19 @@
+.task {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  padding: 0.5rem 0;
+  .task-title {
+    font-weight: normal;
+    font-size: 1.2rem;
+  }
+  .buttons-group {
+    margin-left: auto;
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-end;
+
+  }
+}

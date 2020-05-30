@@ -1,0 +1,42 @@
+.input-group {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.button {
+  border: none;
+  background: white;
+  color: white;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  margin-left: 1rem;
+  color: black;
+  svg {
+    width: 36px;
+    height: 36px;
+    margin-right: 0.5rem;
+  }
+  &:hover {
+    cursor: pointer;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+
+.input {
+  border: none;
+  border-bottom: 1px solid red;
+  width: 100%;
+  color: #343434;
+  font-size: 1.3rem;
+  font-weight: normal;
+
+  &:focus {
+    outline: none;
+  }
+}
