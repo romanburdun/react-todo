@@ -1,8 +1,8 @@
-#React ToDo application
+# React ToDo application
 
 Simple React ToDo application
 
-##Available scripts
+## Available scripts
 
 ````
 npm run start
