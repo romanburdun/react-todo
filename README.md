@@ -2,6 +2,8 @@
 
 Simple React ToDo application
 
+[CodeSandbox Demo](https://codesandbox.io/s/react-todo-b4bid)
+
 ## Available scripts
 
 ````
